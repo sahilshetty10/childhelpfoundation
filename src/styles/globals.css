@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bgimg {
+    background-image: url('https://in.childhelpfoundation.in/assets/img/slide/best-ngo.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.bgimg2 {
+    background-image: url('https://in.childhelpfoundation.in/assets/img/slide/lockdown.jpg');
+    background-position: center;
+    background-size: cover;
+}
