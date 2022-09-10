@@ -5,7 +5,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 // Import Swiper styles
 import "swiper/css";
-import PartnerSlider from "../components/partnerSlider";
+import PartnerSlider from "../components/PartnerSlider";
 import HeroSlider from "../components/HeroSlider";
 import Title from "../components/Title";
 import EmergencyCases from "../components/EmergencyCases";
